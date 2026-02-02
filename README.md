@@ -50,6 +50,16 @@ Projekt to system REST API do zarządzania wypożyczalnią sprzętu (np. budowla
 
 
 
+## Dane dostępowe do testów
+System posiada dwa predefiniowane konta o różnych uprawnieniach:
+
+1. **Administrator (Pełny dostęp CRUD)**
+   * **Login:** admin
+   * **Hasło:** admin123
+
+2. **Pracownik (Tylko odczyt sprzętu + obsługa wypożyczeń)**
+   * **Login:** pracownik1
+   * **Hasło:** haslo123
 \## Instrukcja Uruchomienia
 
 1\. Instalacja wymaganych bibliotek:
